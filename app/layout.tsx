@@ -4,6 +4,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: { default: 'スキンケアNOTE', template: '%s | スキンケアNOTE' },
   description: 'スキンケアの基本から最新美容成分まで、素肌美人になる情報を発信',
+  verification: { google: 'xpdiFRYHloMJxfhCT-IMD08p5na4v9WUqvPY9OrDsHs' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
