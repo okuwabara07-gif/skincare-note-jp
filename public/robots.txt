@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skincare-note-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/skincare-note-jp/sitemap.xml
