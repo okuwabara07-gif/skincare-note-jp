@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://okuwabara07-gif.github.io/skincare-note-jp/sitemap.xml
+Disallow: /
